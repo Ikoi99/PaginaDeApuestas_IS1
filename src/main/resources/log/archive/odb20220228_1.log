@@ -1,0 +1,46 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 13:41:43 #1 store] 
+Database 'D:\MIS COSAS\UNIVERSIDAD\Java\Ingeniería del Software 2\Bets-21\src\main\resources\bets.temp' is opened by 12496@PesteNegra
+
+[2022-02-28 13:41:43 #2 type.registry] 
+New type domain.Question
+
+[2022-02-28 13:41:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 13:41:43 #4 type.registry] 
+New type domain.Event
+
+[2022-02-28 13:41:43 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-28 13:41:43 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-28 13:41:43 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 14:38:01 #1 store] 
+Database 'D:\MIS COSAS\UNIVERSIDAD\Java\Ingeniería del Software 2\Bets-21\src\main\resources\bets.temp' is opened by 10680@PesteNegra
+
+[2022-02-28 14:38:02 #2 type.registry] 
+New type domain.Question
+
+[2022-02-28 14:38:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 14:38:02 #4 type.registry] 
+New type domain.Event
+
+[2022-02-28 14:38:02 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-28 14:38:02 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-28 14:38:02 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

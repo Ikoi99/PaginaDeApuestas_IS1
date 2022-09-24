@@ -1,0 +1,2819 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 15:31:48 #1 store] 
+Database 'D:\Aplicaciones\Eclipse\Repositorios De Trabajo\21-22\Bets-21\src\main\resources\bets.temp' is opened by 7696@Portatil
+
+[2022-03-08 15:31:48 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 15:31:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 15:31:48 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 15:31:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 15:31:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 15:31:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 15:42:50 #1 store] 
+Database 'D:\Aplicaciones\Eclipse\Repositorios De Trabajo\21-22\Bets-21\src\main\resources\bets.temp' is opened by 15928@Portatil
+
+[2022-03-08 15:42:51 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 15:42:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 15:42:51 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 15:42:51 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 15:42:51 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 15:42:51 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 15:45:55 #1 store] 
+Database 'D:\Aplicaciones\Eclipse\Repositorios De Trabajo\21-22\Bets-21\src\main\resources\bets.temp' is opened by 16352@Portatil
+
+[2022-03-08 15:45:55 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 15:45:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 15:45:55 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 15:45:55 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 15:45:55 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 15:45:55 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 15:48:48 #1 store] 
+Database 'D:\Aplicaciones\Eclipse\Repositorios De Trabajo\21-22\Bets-21\src\main\resources\bets.temp' is opened by 15836@Portatil
+
+[2022-03-08 15:48:49 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 15:48:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 15:48:49 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 15:48:49 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 15:48:49 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 15:48:49 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 15:49:16 #1 store] 
+Database 'D:\Aplicaciones\Eclipse\Repositorios De Trabajo\21-22\Bets-21\src\main\resources\bets.temp' is opened by 904@Portatil
+
+[2022-03-08 15:49:16 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 15:49:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 15:49:16 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 15:49:16 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 15:49:16 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 15:49:16 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 16:07:42 #1 store] 
+Database 'D:\Aplicaciones\Eclipse\Repositorios De Trabajo\21-22\Bets-21\src\main\resources\bets.temp' is opened by 15564@Portatil
+
+[2022-03-08 16:07:42 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 16:07:42 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 16:07:42 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 16:07:42 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 16:07:42 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 16:07:42 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 17:07:26 #1 store] 
+Database 'D:\MIS COSAS\UNIVERSIDAD\Java\Ingeniería del Software 2\Bets-21\src\main\resources\bets.temp' is opened by 7600@PesteNegra
+
+[2022-03-08 17:07:26 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 17:07:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 17:07:26 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 17:07:26 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 17:07:26 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 17:07:26 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 17:09:48 #1 store] 
+Database 'D:\MIS COSAS\UNIVERSIDAD\Java\Ingeniería del Software 2\Bets-21\src\main\resources\bets.temp' is opened by 21048@PesteNegra
+
+[2022-03-08 17:09:49 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 17:09:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 17:09:49 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 17:09:49 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 17:09:49 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 17:09:49 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 17:15:56 #1 store] 
+Database 'D:\MIS COSAS\UNIVERSIDAD\Java\Ingeniería del Software 2\Bets-21\src\main\resources\bets.temp' is opened by 12948@PesteNegra
+
+[2022-03-08 17:15:56 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 17:15:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 17:15:56 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 17:15:56 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 17:15:56 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 17:15:56 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 17:15:58 #8 type.registry] 
+New type domain.User
+
+[2022-03-08 17:15:58 #9 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 17:15:58 #10 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 17:15:58 #11 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 17:15:58 #12 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 17:15:58 #13 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 17:15:58 #14 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 17:15:58 #15 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 17:15:58 #16 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 17:15:58 #17 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 17:15:58 #18 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 17:15:58 #19 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 17:15:58 #20 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 17:15:58 #21 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 17:15:58 #22 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 17:15:58 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 17:15:58 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 18:18:47 #1 store] 
+Database 'D:\MIS COSAS\UNIVERSIDAD\Java\Ingeniería del Software 2\Bets-21\src\main\resources\bets.temp' is opened by 1584@PesteNegra
+
+[2022-03-08 18:18:48 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 18:18:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 18:18:48 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 18:18:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 18:18:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 18:18:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 18:18:54 #8 type.registry] 
+New type domain.User
+
+[2022-03-08 18:18:54 #9 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 18:18:54 #10 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 18:18:54 #11 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 18:18:54 #12 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 18:18:54 #13 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 18:18:54 #14 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 18:18:54 #15 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 18:18:54 #16 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 18:18:54 #17 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 18:18:54 #18 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 18:18:54 #19 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 18:18:54 #20 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 18:18:54 #21 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 18:18:54 #22 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 18:18:54 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 18:18:54 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:04:49 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 4944@DESKTOP-VRMBIG8
+
+[2022-03-08 21:04:49 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:04:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:04:49 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:04:49 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:04:49 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:04:49 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:04:59 #8 type.registry] 
+New type domain.User
+
+[2022-03-08 21:04:59 #9 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:04:59 #10 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:04:59 #11 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:04:59 #12 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:05:00 #13 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:05:00 #14 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:05:00 #15 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:05:00 #16 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:05:00 #17 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:05:00 #18 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:05:00 #19 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:05:00 #20 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:05:00 #21 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:05:00 #22 type] 
+Type domain.Permission.Permission is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:06:11 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 16664@DESKTOP-VRMBIG8
+
+[2022-03-08 21:06:12 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:06:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:06:12 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:06:12 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:06:12 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:06:12 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:06:22 #8 type.registry] 
+New type domain.User
+
+[2022-03-08 21:06:22 #9 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:06:22 #10 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:06:22 #11 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:06:22 #12 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:06:22 #13 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:06:22 #14 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:06:22 #15 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:06:22 #16 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:06:22 #17 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:06:22 #18 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:06:22 #19 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:06:22 #20 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:06:22 #21 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:06:22 #22 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:06:22 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:06:22 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:17:13 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 18888@DESKTOP-VRMBIG8
+
+[2022-03-08 21:17:13 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:17:13 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:17:14 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:17:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:17:14 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:17:14 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:17:21 #8 type.registry] 
+New type domain.User
+
+[2022-03-08 21:17:21 #9 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:17:21 #10 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:17:21 #11 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:17:21 #12 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:17:21 #13 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:17:21 #14 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:17:21 #15 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:17:21 #16 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:17:21 #17 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:17:21 #18 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:17:21 #19 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:17:21 #20 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:17:21 #21 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:17:21 #22 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:17:21 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:17:21 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:18:47 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 11004@DESKTOP-VRMBIG8
+
+[2022-03-08 21:18:47 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:18:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:18:47 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:18:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:18:47 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:18:47 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:18:54 #8 type.registry] 
+New type domain.User
+
+[2022-03-08 21:18:54 #9 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:18:54 #10 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:18:54 #11 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:18:54 #12 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:18:54 #13 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:18:54 #14 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:18:54 #15 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:18:54 #16 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:18:54 #17 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:18:54 #18 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:18:54 #19 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:18:54 #20 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:18:54 #21 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:18:54 #22 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:18:54 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:18:54 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:21:05 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 14916@DESKTOP-VRMBIG8
+
+[2022-03-08 21:21:06 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:21:06 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:21:06 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:21:06 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:21:06 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:21:06 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:21:14 #8 type.registry] 
+New type domain.User
+
+[2022-03-08 21:21:14 #9 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:21:14 #10 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:21:14 #11 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:21:14 #12 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:21:14 #13 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:21:14 #14 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:21:14 #15 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:21:14 #16 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:21:14 #17 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:21:14 #18 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:21:14 #19 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:21:14 #20 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:21:14 #21 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:21:14 #22 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:21:14 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:21:14 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:22:06 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 3132@DESKTOP-VRMBIG8
+
+[2022-03-08 21:22:06 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:22:06 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:22:06 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:22:06 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:22:06 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:22:06 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:22:14 #8 type.registry] 
+New type domain.User
+
+[2022-03-08 21:22:14 #9 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:22:14 #10 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:22:14 #11 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:22:14 #12 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:22:14 #13 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:22:14 #14 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:22:14 #15 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:22:14 #16 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:22:14 #17 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:22:14 #18 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:22:14 #19 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:22:14 #20 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:22:14 #21 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:22:14 #22 type] 
+Type domain.Permission.Permission is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:23:55 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 16964@DESKTOP-VRMBIG8
+
+[2022-03-08 21:23:55 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:23:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:23:55 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:23:55 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:23:55 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:23:55 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:24:02 #8 type.registry] 
+New type domain.User
+
+[2022-03-08 21:24:02 #9 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:24:02 #10 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:24:02 #11 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:24:02 #12 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:24:02 #13 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:24:02 #14 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:24:02 #15 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:24:02 #16 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:24:02 #17 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:24:02 #18 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:24:02 #19 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:24:02 #20 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:24:02 #21 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:24:02 #22 type] 
+Type domain.Permission.Permission is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:24:31 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 7892@DESKTOP-VRMBIG8
+
+[2022-03-08 21:24:31 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:24:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:24:31 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:24:31 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:24:31 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:24:31 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:26:50 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 19872@DESKTOP-VRMBIG8
+
+[2022-03-08 21:26:50 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:26:50 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:26:50 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:26:50 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:26:50 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:28:25 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 16136@DESKTOP-VRMBIG8
+
+[2022-03-08 21:28:25 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:28:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:28:25 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:28:25 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:28:25 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:29:20 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 1284@DESKTOP-VRMBIG8
+
+[2022-03-08 21:29:21 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:29:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:29:21 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:29:21 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:29:21 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:29:21 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:29:21 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:29:21 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:29:21 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:29:21 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:29:21 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:29:21 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:29:21 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:29:21 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:29:21 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:29:21 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:29:21 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:29:21 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:29:21 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:29:21 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:29:21 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:29:21 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:29:21 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:30:15 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 7504@DESKTOP-VRMBIG8
+
+[2022-03-08 21:30:15 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:30:15 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:30:15 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:30:15 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:30:15 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:30:15 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:30:15 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:30:15 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:30:15 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:30:15 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:30:15 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:30:15 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:30:15 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:30:15 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:30:15 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:30:15 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:30:15 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:30:15 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:30:15 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:30:15 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:30:15 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:30:15 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:30:15 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:31:52 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 19496@DESKTOP-VRMBIG8
+
+[2022-03-08 21:31:52 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:31:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:31:52 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:31:52 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:31:52 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:31:52 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:31:52 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:31:52 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:31:52 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:31:52 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:31:52 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:31:52 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:31:52 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:31:52 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:31:52 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:31:52 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:31:52 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:31:52 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:31:52 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:31:52 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:31:52 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:31:52 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:31:52 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:38:06 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 2012@DESKTOP-VRMBIG8
+
+[2022-03-08 21:38:07 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:38:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:38:07 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:38:07 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:38:07 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:38:07 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:38:07 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:38:07 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:38:07 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:38:07 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:38:07 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:38:07 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:38:07 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:38:07 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:38:07 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:38:07 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:38:07 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:38:07 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:38:07 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:38:07 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:38:07 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:38:07 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:38:07 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:39:59 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 8620@DESKTOP-VRMBIG8
+
+[2022-03-08 21:39:59 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:39:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:39:59 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:39:59 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:39:59 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:39:59 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:39:59 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:39:59 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:39:59 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:39:59 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:39:59 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:39:59 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:39:59 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:39:59 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:39:59 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:39:59 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:39:59 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:39:59 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:39:59 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:39:59 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:39:59 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:39:59 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:39:59 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:43:21 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 6364@DESKTOP-VRMBIG8
+
+[2022-03-08 21:43:22 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:43:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:43:22 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:43:22 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:43:22 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:43:22 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:43:22 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:43:22 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:43:22 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:43:22 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:43:22 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:43:22 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:43:22 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:43:22 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:43:22 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:43:22 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:43:22 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:43:22 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:43:22 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:43:22 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:43:22 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:43:22 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:43:22 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:48:29 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 6140@DESKTOP-VRMBIG8
+
+[2022-03-08 21:48:29 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:48:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:48:29 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:48:29 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:48:29 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:48:29 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:48:29 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:48:29 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:48:29 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:48:29 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:48:29 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:48:29 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:48:29 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:48:29 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:48:29 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:48:29 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:48:29 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:48:29 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:48:29 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:48:29 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:48:29 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:48:29 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:48:29 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:54:37 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 20080@DESKTOP-VRMBIG8
+
+[2022-03-08 21:54:37 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:54:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:54:37 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:54:37 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:54:37 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:54:37 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:54:37 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:54:37 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:54:37 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:54:37 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:54:37 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:54:37 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:54:37 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:54:37 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:54:37 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:54:37 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:54:37 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:54:37 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:54:37 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:54:37 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:54:37 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:54:37 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:54:37 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:56:37 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 10936@DESKTOP-VRMBIG8
+
+[2022-03-08 21:56:37 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:56:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:56:37 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:56:37 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:56:37 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:56:37 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:56:37 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:56:37 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:56:37 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:56:37 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:56:37 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:56:37 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:56:37 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:56:37 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:56:37 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:56:37 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:56:37 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:56:37 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:56:37 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:56:37 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:56:37 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:56:37 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:56:37 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:57:16 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 4412@DESKTOP-VRMBIG8
+
+[2022-03-08 21:57:16 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:57:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:57:16 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:57:16 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:57:17 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:57:17 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:57:17 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:57:17 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:57:17 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:57:17 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:57:17 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:57:17 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:57:17 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:57:17 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:57:17 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:57:17 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:57:17 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:57:17 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:57:17 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:57:17 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:57:17 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:57:17 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:57:17 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:58:32 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 13336@DESKTOP-VRMBIG8
+
+[2022-03-08 21:58:33 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:58:33 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:58:33 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:58:33 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:58:33 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:58:33 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:58:33 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:58:33 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:58:33 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:58:33 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:58:33 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:58:33 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:58:33 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:58:33 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:58:33 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:58:33 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:58:33 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:58:33 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:58:33 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:58:33 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:58:33 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:58:33 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:58:33 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:59:20 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 17328@DESKTOP-VRMBIG8
+
+[2022-03-08 21:59:20 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:59:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:59:20 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:59:20 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:59:20 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:59:20 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:59:20 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:59:20 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:59:20 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:59:20 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:59:20 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:59:20 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:59:20 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:59:20 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:59:20 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:59:20 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:59:20 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:59:20 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:59:20 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:59:20 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:59:20 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:59:20 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:59:20 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 21:59:57 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 19888@DESKTOP-VRMBIG8
+
+[2022-03-08 21:59:57 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 21:59:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 21:59:57 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 21:59:57 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 21:59:57 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 21:59:57 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 21:59:57 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 21:59:57 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 21:59:57 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 21:59:57 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 21:59:57 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 21:59:57 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 21:59:57 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 21:59:57 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 21:59:57 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 21:59:57 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 21:59:57 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 21:59:57 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 21:59:57 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 21:59:57 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 21:59:57 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 21:59:57 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 21:59:57 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:01:27 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 2024@DESKTOP-VRMBIG8
+
+[2022-03-08 22:01:27 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:01:27 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:01:27 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:01:27 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:01:27 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:01:27 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:01:27 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:01:27 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:01:27 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:01:27 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:01:27 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:01:27 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:01:27 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:01:27 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:01:27 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:01:27 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:01:27 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:01:27 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:01:27 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:01:27 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:01:27 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:01:27 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:01:27 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:03:56 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 19836@DESKTOP-VRMBIG8
+
+[2022-03-08 22:03:56 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:03:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:03:56 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:03:56 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:03:56 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:03:56 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:03:56 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:03:56 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:03:56 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:03:56 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:03:56 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:03:56 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:03:56 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:03:56 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:03:56 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:03:56 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:03:56 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:03:56 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:03:56 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:03:56 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:03:56 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:03:56 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:03:56 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:04:45 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 19868@DESKTOP-VRMBIG8
+
+[2022-03-08 22:04:45 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:04:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:04:45 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:04:45 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:04:45 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:04:45 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:04:45 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:04:45 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:04:45 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:04:45 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:04:45 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:04:45 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:04:45 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:04:45 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:04:45 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:04:45 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:04:45 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:04:45 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:04:45 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:04:45 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:04:45 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:04:45 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:04:45 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:05:34 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 16644@DESKTOP-VRMBIG8
+
+[2022-03-08 22:05:34 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:05:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:05:34 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:05:34 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:05:34 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:05:34 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:05:34 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:05:34 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:05:34 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:05:34 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:05:34 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:05:34 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:05:34 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:05:34 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:05:34 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:05:34 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:05:34 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:05:34 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:05:34 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:05:34 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:05:34 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:05:34 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:05:34 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:06:52 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 7548@DESKTOP-VRMBIG8
+
+[2022-03-08 22:06:52 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:06:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:06:52 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:06:52 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:06:52 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:06:52 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:06:52 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:06:52 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:06:52 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:06:52 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:06:52 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:06:52 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:06:52 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:06:52 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:06:52 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:06:52 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:06:52 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:06:52 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:06:52 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:06:52 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:06:52 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:06:52 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:06:52 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:19:34 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 21336@DESKTOP-VRMBIG8
+
+[2022-03-08 22:19:34 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:19:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:19:34 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:19:34 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:19:34 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:19:34 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:19:34 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:19:34 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:19:34 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:19:34 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:19:34 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:19:34 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:19:34 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:19:34 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:19:34 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:19:34 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:19:34 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:19:34 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:19:34 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:19:34 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:19:34 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:19:34 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:19:34 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:20:20 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 19508@DESKTOP-VRMBIG8
+
+[2022-03-08 22:20:20 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:20:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:20:20 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:20:20 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:20:20 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:20:20 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:20:20 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:20:20 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:20:20 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:20:20 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:20:20 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:20:20 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:20:20 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:20:20 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:20:20 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:20:20 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:20:20 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:20:20 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:20:20 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:20:20 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:20:20 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:20:20 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:20:20 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:20:51 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 20760@DESKTOP-VRMBIG8
+
+[2022-03-08 22:20:51 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:20:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:20:51 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:20:51 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:20:51 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:20:51 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:20:51 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:20:51 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:20:51 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:20:51 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:20:51 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:20:51 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:20:51 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:20:51 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:20:51 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:20:51 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:20:51 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:20:51 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:20:51 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:20:51 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:20:51 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:20:51 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:20:51 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:21:41 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 2680@DESKTOP-VRMBIG8
+
+[2022-03-08 22:21:41 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:21:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:21:41 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:21:41 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:21:41 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:21:41 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:21:41 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:21:41 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:21:41 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:21:41 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:21:41 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:21:41 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:21:41 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:21:41 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:21:41 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:21:41 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:21:41 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:21:41 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:21:41 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:21:41 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:21:41 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:21:41 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:21:41 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:23:57 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 20136@DESKTOP-VRMBIG8
+
+[2022-03-08 22:23:57 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:23:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:23:57 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:23:57 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:23:57 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:23:57 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:23:57 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:23:57 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:23:57 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:23:57 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:23:57 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:23:57 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:23:57 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:23:57 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:23:57 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:23:57 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:23:57 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:23:57 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:23:57 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:23:57 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:23:57 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:23:57 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:23:57 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:25:12 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 13336@DESKTOP-VRMBIG8
+
+[2022-03-08 22:25:12 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:25:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:25:12 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:25:12 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:25:12 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:25:12 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:25:12 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:25:12 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:25:12 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:25:12 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:25:12 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:25:12 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:25:12 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:25:12 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:25:12 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:25:12 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:25:12 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:25:12 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:25:12 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:25:12 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:25:12 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:25:12 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:25:12 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:26:08 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 21144@DESKTOP-VRMBIG8
+
+[2022-03-08 22:26:08 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:26:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:26:08 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:26:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:26:08 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:26:08 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:26:08 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:26:08 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:26:08 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:26:08 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:26:08 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:26:08 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:26:08 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:26:08 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:26:08 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:26:08 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:26:08 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:26:08 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:26:08 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:26:08 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:26:08 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:26:08 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:26:08 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-08 22:33:58 #1 store] 
+Database 'C:\Users\xiaom\Documents\GitHub\IS1\src\main\resources\bets.temp' is opened by 17120@DESKTOP-VRMBIG8
+
+[2022-03-08 22:33:58 #2 type.registry] 
+New type domain.Question
+
+[2022-03-08 22:33:58 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-03-08 22:33:58 #4 type.registry] 
+New type domain.Event
+
+[2022-03-08 22:33:58 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-03-08 22:33:58 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-03-08 22:33:58 #7 type.registry] 
+New type domain.User
+
+[2022-03-08 22:33:58 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-03-08 22:33:58 #9 type.registry] 
+New type domain.ValueObjects.Role
+
+[2022-03-08 22:33:58 #10 type.registry] 
+New type domain.ValueObjects.UserPassword
+
+[2022-03-08 22:33:58 #11 type.registry] 
+New type domain.ValueObjects.UserName
+
+[2022-03-08 22:33:58 #12 type.registry] 
+New type domain.ValueObjects.ValueObjectUUID
+
+[2022-03-08 22:33:58 #13 type.registry] 
+New type domain.ValueObjects.UserId
+
+[2022-03-08 22:33:58 #14 type] 
+Type domain.ValueObjects.Role is not enhanced.
+
+[2022-03-08 22:33:58 #15 type.registry] 
+New type domain.Permission.Permission
+
+[2022-03-08 22:33:58 #16 type.registry] 
+New type domain.ValueObjects.Role$RoleEnum
+
+[2022-03-08 22:33:58 #17 type] 
+Type domain.ValueObjects.UserPassword is not enhanced.
+
+[2022-03-08 22:33:58 #18 type] 
+Type domain.ValueObjects.UserName is not enhanced.
+
+[2022-03-08 22:33:58 #19 type] 
+Type domain.ValueObjects.ValueObjectUUID is not enhanced.
+
+[2022-03-08 22:33:58 #20 type] 
+Type domain.ValueObjects.UserId is not enhanced.
+
+[2022-03-08 22:33:58 #21 type] 
+Type domain.Permission.Permission is not enhanced.
+
+[2022-03-08 22:33:58 #22 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-03-08 22:33:58 #23 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-03-08 22:33:58 #24 type.registry] 
+New type java.util.ArrayList<domain.Permission.Permission>
+
