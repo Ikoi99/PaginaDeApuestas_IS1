@@ -1,6 +1,6 @@
 # PaginaDeApuestas_IS1
 
-Aplicación simula de una manera muy sencilla el comportamiento de una pagina de apuestas.
+Aplicación simula de una manera muy sencilla el comportamiento de una pagina de apuestas deportivas.
 
 La aplicación, desarrollada en java, fue creada para la asignatura de Ingeneria de Software.
 
