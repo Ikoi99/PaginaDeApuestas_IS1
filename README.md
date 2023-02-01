@@ -6,4 +6,4 @@ La aplicación, desarrollada en java, fue creada para la asignatura de Ingeneria
 
 Desarrollado por [Ian Fernandez](https://github.com/Ianfhca), [Samuel Guzman](https://github.com/samuelguzmanajala), [Asier Arronategi](https://github.com/Kustonm) e [Iker Goñi](https://github.com/Ikoi99). 
 
-2021
+2022
