@@ -4,4 +4,6 @@ Aplicación simula de una manera muy sencilla el comportamiento de una pagina de
 
 La aplicación, desarrollada en java, fue creada para la asignatura de Ingeneria de Software.
 
-Desarrollado por [Ian Fernandez](https://github.com/Ianfhca), [Samuel Guzman](https://github.com/samuelguzmanajala), [Asier Arronategi](https://github.com/Kustonm) e Iker Goñi. 
+Desarrollado por [Ian Fernandez](https://github.com/Ianfhca), [Samuel Guzman](https://github.com/samuelguzmanajala), [Asier Arronategi](https://github.com/Kustonm) e [Iker Goñi](https://github.com/Ikoi99). 
+
+2021
